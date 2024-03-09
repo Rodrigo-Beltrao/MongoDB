@@ -106,3 +106,17 @@ Criação de um índice (não único e com ordenação ascendente).
 <p align="center">
     <img src="https://imgur.com/7AE6kuj.png" alt="codigo16">
 </p>
+
+Criação de um índice (único e com ordenação descendente).
+
+<p align="center">
+    <img src="https://imgur.com/w49oLKu.png" alt="codigo17">
+</p>
+
+Criação de um índice (com dois atributos).
+
+<p align="center">
+    <img src="https://imgur.com/TKM7ph6.png" alt="codigo18">
+</p>
+
+sadfasfsaf

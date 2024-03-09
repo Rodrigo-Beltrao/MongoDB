@@ -124,3 +124,40 @@ Crialção de um índice para um atributo array.
 <p align="center">
     <img src="https://imgur.com/8vpayXB.png" alt="codigo19">
 </p>
+
+Criação de um índice esparso (com um atributo).
+
+<p align="center">
+    <img src="https://imgur.com/i7lE98P.png" alt="codigo20">
+</p>
+
+Criação de um índice com tempo de vida - TTL (com um atributo e com expiração de 20 segundos).
+
+<p align="center">
+    <img src="https://imgur.com/Onrmpij.png" alt="codigo21">
+</p>
+
+Inserção de 4 documentos na coleção.
+
+<p align="center">
+    <img src="https://imgur.com/7p97Sim.png" alt="codigo22">
+</p>
+
+Criação de uma segunda coleção de nome "RB_indexar2" (ela apresenta 4 atributos string).
+
+<p align="center">
+    <img src="https://imgur.com/jNR4NxE.png" alt="codigo22">
+</p>
+
+Criação de um índice textual para essa segunda coleção.
+
+<p align="center">
+    <img src="https://imgur.com/Jba5q0N.png" alt="codigo23">
+</p>
+
+Inserir 4 documentos nessa segunda coleção.
+
+<p align="center">
+    <img src="https://imgur.com/b993dhc.png" alt="codigo24">
+</p>
+

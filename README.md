@@ -95,4 +95,14 @@ Criação de um pequeno modelo que envolve duas coleções com cardinalidades N-
 
 ## Índices
 
+Criação do banco de dados "RB_indeagreg" juntamente com uma coleção denominada "RB_indexar1", a qual apresenta pelo menos sete atributos, incluindo pelo menos um atributo do tipo array.
 
+<p align="center">
+    <img src="https://imgur.com/lkdOzsH.png" alt="codigo15">
+</p>
+
+Criação de um índice (não único e com ordenação ascendente).
+
+<p align="center">
+    <img src="https://imgur.com/7AE6kuj.png" alt="codigo16">
+</p>

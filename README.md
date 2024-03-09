@@ -224,3 +224,35 @@ Acesso a um dos nós secundários.
 </p>
 
 ## Particionamento
+
+Criado um shard com quatro servidores shard (sem Replica Set) e configurado um servidor mongos.
+
+<p align="center">
+    <img src="https://imgur.com/kxZq5uJ.png" alt="codigo35">
+</p>
+<p align="center">
+    <img src="https://imgur.com/undefined.png" alt="codigo36">
+</p>
+
+Conexão ao mongos e particionada uma coleção.
+
+</p>
+<p align="center">
+    <img src="https://imgur.com/03Gr3sl.png" alt="codigo37">
+</p>
+
+Inserção, para essa coleção, de 1.000 documentos através do comando [for].
+
+</p>
+<p align="center">
+    <img src="https://imgur.com/hZRRsHA.png" alt="codigo38">
+</p>
+
+Distribuição da coleção criada.
+
+</p>
+<p align="center">
+    <img src="https://imgur.com/VuzMJXI.png" alt="codigo39">
+</p>
+
+## Storage Engines

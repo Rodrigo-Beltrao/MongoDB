@@ -205,6 +205,22 @@ Criação de uma consulta que mostre o menor valor de venda por UF.
 
 ## Replicação
 
+Criação do replica set "RB_rsposmit" e criação a coleção "RB_col_filmes" no nó primário.
 
+<p align="center">
+    <img src="https://imgur.com/PVALcKy.png" alt="codigo32">
+</p>
 
+Inserção de 5 documentos na coleção "RB_col_filmes".
 
+<p align="center">
+    <img src="https://imgur.com/t3trEiz.png" alt="codigo33">
+</p>
+
+Acesso a um dos nós secundários.
+
+<p align="center">
+    <img src="hhttps://imgur.com/xXGAfQ6.png" alt="codigo34">
+</p>
+
+## Particionamento

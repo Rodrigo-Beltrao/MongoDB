@@ -155,9 +155,56 @@ Criação de um índice textual para essa segunda coleção.
     <img src="https://imgur.com/Jba5q0N.png" alt="codigo23">
 </p>
 
-Inserir 4 documentos nessa segunda coleção.
+Inserção de 4 documentos nessa segunda coleção.
 
 <p align="center">
     <img src="https://imgur.com/b993dhc.png" alt="codigo24">
 </p>
+
+Criação de uma terceira coleção de nome "RB_Venda" (na qual tem os atributos: Cod_Venda, UF_Venda, Desc_Prod_Vendido, Valor_Venda).
+
+<p align="center">
+    <img src="https://imgur.com/4R0BAT9.png" alt="codigo25">
+</p>
+
+Inserção de 16 documentos (sendo 4 documentos para cada uma das UFs - são 4 UFs diferentes). 
+
+<p align="center">
+    <img src="https://imgur.com/sEvVWTl.png" alt="codigo26">
+</p>
+
+Criação de uma consulta que mostra o número de documentos por UF.
+
+<p align="center">
+    <img src="https://imgur.com/dbFw8iz.png" alt="codigo27">
+</p>
+
+Criação de uma consulta que mostre o valor total das vendas por UF.
+
+<p align="center">
+    <img src="https://imgur.com/uu8SgcV.png" alt="codigo28">
+</p>
+
+Criação uma consulta que mostre o valor de médias das vendas por UF.
+
+<p align="center">
+    <img src="https://imgur.com/gDzAGau.png" alt="codigo29">
+</p>
+
+Criação de uma consulta que mostre o maior valor de venda por UF.
+
+<p align="center">
+    <img src="https://imgur.com/keZXNei.png" alt="codigo30">
+</p>
+
+Criação de uma consulta que mostre o menor valor de venda por UF.
+
+<p align="center">
+    <img src="https://imgur.com/G4mCGTv.png" alt="codigo31">
+</p>
+
+## Replicação
+
+
+
 

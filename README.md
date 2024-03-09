@@ -12,7 +12,7 @@ Resumo do projeto:
 - Utilização de diferentes storage engines, como mmapv1 e wiredTiger, e configuração de autenticação e autorização de usuários;
 - Realização de operações de depuração, backup e restore em instâncias do MongoDB, demonstrando o uso de ferramentas como mongostat e mongotop.
 
-## Instalações e criações
+# Instalações e criações
 
 Criado o banco de dados "RB_rh" (sendo "RB" as iniciais para comprovação de autenticidade no projeto), juntamente com as coleções "RB_DEPARTAMENTO", "RB_FUNCIONARIO" e "RB_DEPENDENTE", seguido pela inserção de três documentos em cada coleção. A seguir, foi exibido o conteúdo de cada coleção. Obs: Todos os comandos estão disponíveis no topo da página no bloco de notas chamado "Scrip".
 
@@ -58,7 +58,7 @@ Execução de um delete (remove) para uma das coleções.
     <img src="https://imgur.com/1QjnCKg.png" alt="codigo8">
 </p>
 
-## Modelagem
+# Modelagem
 
 Criado o banco de dados "RB_modelo" e posteriormente desenvolvido um pequeno modelo que envolve duas coleções com cardinalidades 1-N. As coleções foram nomeadas como "&&_col1a" e "&&_col2a". Nesse contexto, utilizou-se o conceito de referenciar o ID de uma coleção para a outra, enviando para o lado N como se fosse a chave primária do lado 1.
 
@@ -93,7 +93,7 @@ Criação de um pequeno modelo que envolve duas coleções com cardinalidades N-
     <img src="https://imgur.com/SuqFQDM.png" alt="codigo14">
 </p>
 
-## Índices
+# Índices
 
 Criação do banco de dados "RB_indeagreg" juntamente com uma coleção denominada "RB_indexar1", a qual apresenta pelo menos sete atributos, incluindo pelo menos um atributo do tipo array.
 
@@ -203,7 +203,7 @@ Criação de uma consulta que mostre o menor valor de venda por UF.
     <img src="https://imgur.com/G4mCGTv.png" alt="codigo31">
 </p>
 
-## Replicação
+# Replicação
 
 Criação do replica set "RB_rsposmit" e criação a coleção "RB_col_filmes" no nó primário.
 
@@ -256,4 +256,4 @@ Distribuição da coleção criada.
     <img src="https://imgur.com/VuzMJXI.png" alt="codigo39">
 </p>
 
-## Storage Engines
+# Storage Engines

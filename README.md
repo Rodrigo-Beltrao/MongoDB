@@ -223,7 +223,7 @@ Acesso a um dos nós secundários.
     <img src="https://imgur.com/xXGAfQ6.png" alt="codigo34">
 </p>
 
-## Particionamento
+# Particionamento
 
 Criado um shard com quatro servidores shard (sem Replica Set) e configurado um servidor mongos.
 

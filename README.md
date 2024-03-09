@@ -119,4 +119,8 @@ Criação de um índice (com dois atributos).
     <img src="https://imgur.com/TKM7ph6.png" alt="codigo18">
 </p>
 
-sadfasfsaf
+Crialção de um índice para um atributo array.
+
+<p align="center">
+    <img src="https://imgur.com/8vpayXB.png" alt="codigo19">
+</p>

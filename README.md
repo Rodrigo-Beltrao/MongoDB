@@ -86,7 +86,7 @@ Obs.: O lado 1 (é como se fosse a coleção mãe) e o lado N (é como se fosse 
 Criação de um pequeno modelo que envolve duas coleções com cardinalidades N-N, denominadas "RB_col1b" e "RB_col2b". Além disso, foram criadas três coleções e inseridos dois documentos em cada uma delas.
 
 <p align="center">
-    <img src="https://imgur.com/undefined.png" alt="codigo13">
+    <img src="https://imgur.com/uUjRw6o.png" alt="codigo13">
 </p>
 
 <p align="center">

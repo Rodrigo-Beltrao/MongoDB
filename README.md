@@ -257,3 +257,65 @@ Distribuição da coleção criada.
 </p>
 
 # Storage Engines
+
+Criação e conexão de uma instância do MongoDB que use o storage engine mmapv1.
+
+</p>
+<p align="center">
+    <img src="https://imgur.com/PiazgYF.png" alt="codigo40">
+</p>
+
+</p>
+<p align="center">
+    <img src="https://imgur.com/4fVDiiX.png" alt="codigo41">
+</p>
+
+
+Criação de uma coleção “RB_produtos” e inserção de 4 documentos.
+
+</p>
+<p align="center">
+    <img src="https://imgur.com/oy5HRNJ.png" alt="codigo43">
+</p>
+
+Criação e conexão de uma instância do MongoDB que usa o storage engine wiredTiger.
+
+</p>
+<p align="center">
+    <img src="https://imgur.com/YOzMrGu.png" alt="codigo44">
+</p>
+
+Criação de uma coleção “RB_lugares” e inserção de 4 documentos.
+
+</p>
+<p align="center">
+    <img src="https://imgur.com/XM2WP4a.png" alt="codigo45">
+</p>
+
+Criação e conexão de uma instância do MongoDB que use segurança (autenticação e autorização).
+
+</p>
+<p align="center">
+    <img src="https://imgur.com/qOMhpql.png" alt="codigo46">
+</p>
+
+</p>
+<p align="center">
+    <img src="https://imgur.com/HUff7oQ.png" alt="codigo47">
+</p>
+
+Criarção de um usuário dba com a role root.
+
+</p>
+<p align="center">
+    <img src="https://imgur.com/uXzNdOD.png" alt="codigo48">
+</p>
+
+Criação de um usuário “RB_desenv” com a role readWrite no database “RB_rh”.
+
+</p>
+<p align="center">
+    <img src="https://imgur.com/75xnc4e.png" alt="codigo49">
+</p>
+
+

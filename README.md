@@ -220,7 +220,7 @@ Inserção de 5 documentos na coleção "RB_col_filmes".
 Acesso a um dos nós secundários.
 
 <p align="center">
-    <img src="hhttps://imgur.com/xXGAfQ6.png" alt="codigo34">
+    <img src="https://imgur.com/xXGAfQ6.png" alt="codigo34">
 </p>
 
 ## Particionamento

@@ -232,7 +232,7 @@ Criado um shard com quatro servidores shard (sem Replica Set) e configurado um s
 </p>
 
 <p align="center">
-    <img src="https://imgur.com/03Gr3sl.png" alt="codigo36">
+    <img src="https://imgur.com/tNyKxPd.png" alt="codigo36">
 </p>
 
 Conexão ao mongos e particionada uma coleção.

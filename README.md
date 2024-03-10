@@ -10,7 +10,7 @@ Resumo do projeto:
 - Configuração de um replica set para alta disponibilidade e replicação de dados;
 - Implementação de um shard para distribuição horizontal de dados em múltiplos servidores;
 - Utilização de diferentes storage engines, como mmapv1 e wiredTiger, e configuração de autenticação e autorização de usuários;
-- Realização de operações de depuração, backup e restore em instâncias do MongoDB, demonstrando o uso de ferramentas como mongostat e mongotop.
+- Realização de operação backup.
 
 # Instalações e criações
 

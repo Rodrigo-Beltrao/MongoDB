@@ -18,7 +18,7 @@ Resumo do projeto:
 
 # Instalações e criações
 
-Foi criado o banco de dados "RB_rh" (sendo "RB" as iniciais para comprovação de autenticidade no projeto), juntamente com as coleções "RB_DEPARTAMENTO", "RB_FUNCIONARIO" e "RB_DEPENDENTE", seguido pela inserção de três documentos em cada coleção. A seguir, foi exibido o conteúdo de cada coleção. Obs: Todos os comandos estão disponíveis no topo da página no bloco de notas chamado "Script".
+Foi criado o banco de dados "RB_rh" (sendo "RB" as iniciais para comprovação de autenticidade no projeto), juntamente com as coleções "RB_DEPARTAMENTO", "RB_FUNCIONARIO" e "RB_DEPENDENTE", seguido pela inserção de três documentos em cada coleção. A seguir, foi exibido o conteúdo de cada coleção. 
 <p align="center">
     <img src="https://imgur.com/L9nTGeE.png" alt="codigo1">
 </p>

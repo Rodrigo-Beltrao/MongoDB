@@ -318,7 +318,7 @@ Criação de um usuário “RB_desenv” com a role readWrite no database “RB_
     <img src="https://imgur.com/75xnc4e.png" alt="codigo49">
 </p>
 
-#  Depuração, Backup/Restore
+#  Backup
 
 Fechamento do Mongo Shell e realização de backup da instância inteira do MongoDB.
 

@@ -1,6 +1,10 @@
 # MongoDB
 Este projeto consiste em uma demonstração prática das minhas habilidades em MongoDB, focando práticas e operações comuns no banco de dados NoSQL.
 
+<p align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7K4_NBV8_Ghq35nyxKjr5wHaGp%26pid%3DApi&f=1&ipt=b06778740c659712ed889b38d62044fe728f4f6a98ad86ce8870fccbeaafb41e&ipo=images" alt="mongodb">
+</p>  
+
 Resumo do projeto:
 
 - Instalação e criação de bancos de dados, coleções e documentos no MongoDB;
